@@ -1,0 +1,38 @@
+To reconfigure manually, use the /usr/local/openvpn_as/bin/ovpn-init tool.
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Access Server 2.12.0 has been successfully installed in /usr/local/openvpn_as
+
+Configuration log file has been written to /usr/local/openvpn_as/init.log
+
+
+
+
+
+Access Server Web UIs are available here:
+
+Admin  UI: https://192.168.0.132:943/admin
+
+Client UI: https://192.168.0.132:943/
+
+To login please use the "openvpn" account with "gC4VEz3nUWAP" password.
+
+(password can be changed on Admin UI)
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Setting up python3-twisted (22.1.0-2ubuntu2.3) ...
+
+Processing triggers for man-db (2.10.2-1) ...
+
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+
+root@Linux-4:/home/migel# 
+
+
+
